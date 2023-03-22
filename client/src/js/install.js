@@ -8,6 +8,7 @@ window.addEventListener('beforeinstallprompt', (event) => {
 });
 
 // A click event handler on the `butInstall` element
+//checks if the window.deferredPrompt variable is set
 butInstall.addEventListener('click', async () => {
     const promptEvent = window.deferredPrompt;
     if (!promptEvent) {
