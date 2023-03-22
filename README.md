@@ -38,6 +38,9 @@ Visit the deployed site below. When you enter text it will save automatically wh
 
 ## Screenshots
 
+![Installed Text Editor](./assets/jate_installed.png)
+![Conole Log for Text Editor](./assets/jate_console.png)
+
 ## Credits
 
 ASK BCS Tutor Jon Jackson
