@@ -12,6 +12,7 @@ Module 19 Challenge
 - [URL](#url)
 - [Screenshots](#screenshots)
 - [Credits](#credits)
+- [Contact](#contact)
 
 ## Description
 
@@ -23,7 +24,7 @@ Clone repository to your local machine.
 
 Right click on package.json and select "Open in Integrated Terminal"
 
-There should be a package.json file included. To install the various npm packages used run the command
+To install the various npm packages used run the command
 
 ```md
 npm i
@@ -40,3 +41,7 @@ Visit the deployed site below. When you enter text it will save automatically wh
 ## Credits
 
 ASK BCS Tutor Jon Jackson
+
+## Contact
+
+meltee@live.com
